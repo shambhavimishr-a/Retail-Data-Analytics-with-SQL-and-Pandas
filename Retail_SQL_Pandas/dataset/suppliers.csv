@@ -1,0 +1,18 @@
+supplier_id,supplier_name,contact_email,phone,country
+1,HP India,support.hp@example.com,+91-22-11112222,India
+2,Dell India,sales.dell@example.com,+91-22-22223333,India
+3,Lenovo India,hello.lenovo@example.com,+91-80-33334444,India
+4,ASUS India,contact.asus@example.com,+91-22-44445555,India
+5,Acer India,info.acer@example.com,+91-22-55556666,India
+6,Apple India,contact.apple@example.com,+91-22-66667777,India
+7,Logitech India,care.logi@example.com,+91-22-77778888,India
+8,Keychron India,hello.keychron@example.com,+91-22-88889999,India
+9,Corsair India,support.corsair@example.com,+91-22-99990000,India
+10,Samsung India,help.samsung@example.com,+91-33-12345678,India
+11,Sony India,service.sony@example.com,+91-11-22334455,India
+12,boAt Lifestyle,care.boat@example.com,+91-22-33445566,India
+13,Noise India,support.noise@example.com,+91-22-44556677,India
+14,Seagate India,support.seagate@example.com,+91-22-55667788,India
+15,WD India,support.wd@example.com,+91-22-66778899,India
+16,BenQ India,support.benq@example.com,+91-22-77889900,India
+17,Anker India,support.anker@example.com,+91-22-88990011,India
